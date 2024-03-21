@@ -4,8 +4,8 @@ This project is to try to improve the performance of a LLM on a specific propert
 We fine-tuned Meta's LLM: Llama 2 thru Hugging Face Api: meta-llama/Llama-2-7b-chat-hf
 
 Models are separatly fine-tuned on two dataset:
-- joey234/mmlu-professional_law
-- joey234/mmlu-professional_law-neg
+- joey234/mmlu-professional_law, link: https://huggingface.co/datasets/joey234/mmlu-professional_law
+- joey234/mmlu-professional_law-neg, link: https://huggingface.co/datasets/joey234/mmlu-professional_law-neg
 
 Results:
 | Model                           | Dataset                               | Accuracy | Response Time/question (s) |
