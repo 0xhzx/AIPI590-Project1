@@ -1,4 +1,5 @@
 # AIPI590-Project1
+## Project overview
 This project is to try to improve the performance of a LLM on a specific property ("focal property"). We mainly focus on the law professional knowledge and try to fine tuning a Law-QA model.
 
 We fine-tuned Meta's LLM: Llama 2 thru Hugging Face Api: meta-llama/Llama-2-7b-chat-hf
@@ -17,4 +18,6 @@ Results:
 | Llama-2-7b-chat-hf              | joey234/mmlu-professional law         | 0.3      | ~120                      |
 | Llama-2-7b-chat-hf              | joey234/mmlu-professional law-neg     | 0.1      | ~120                      |
 
+## Presentation
+[Complete PPT presentation](https://docs.google.com/presentation/d/1NdN_7jHaDDYEpvI03shjJ_r_SK1m9z0AVzpvAEUoB90/edit?usp=sharing)
 
