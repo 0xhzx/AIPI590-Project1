@@ -7,6 +7,8 @@ Models are separatly fine-tuned on two dataset:
 - joey234/mmlu-professional_law, link: https://huggingface.co/datasets/joey234/mmlu-professional_law
 - joey234/mmlu-professional_law-neg, link: https://huggingface.co/datasets/joey234/mmlu-professional_law-neg
 
+Models are trained using Colab pro A100 GPU.
+
 Results:
 | Model                           | Dataset                               | Accuracy | Response Time/question (s) |
 |---------------------------------|---------------------------------------|----------|---------------------------|
